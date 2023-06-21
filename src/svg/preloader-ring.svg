@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="Слой_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 400 400"
+   style="enable-background:new 0 0 400 400;"
+   xml:space="preserve"
+   sodipodi:docname="preloader.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs26" /><sodipodi:namedview
+   id="namedview24"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{fill:#E0D6D7;}
+	.st1{clip-path:url(#SVGID_2_);fill:url(#SVGID_3_);}
+	.st2{clip-path:url(#SVGID_5_);fill:url(#SVGID_6_);}
+</style>
+<g
+   id="g21">
+	<path
+   class="st0"
+   d="M200.68,391.67c-25.91,0-51.04-5.07-74.71-15.08c-22.86-9.67-43.38-23.51-61.01-41.13   c-17.63-17.63-31.46-38.15-41.13-61.01c-10.01-23.66-15.08-48.8-15.08-74.71s5.08-51.04,15.08-74.71   c9.67-22.86,23.51-43.38,41.13-61.01c17.63-17.63,38.15-31.46,61.01-41.13c23.66-10.01,48.8-15.08,74.71-15.08   s51.04,5.07,74.71,15.08c22.86,9.67,43.38,23.51,61.01,41.13c17.63,17.63,31.46,38.15,41.13,61.01   c10.01,23.66,15.08,48.8,15.08,74.71s-5.08,51.04-15.08,74.71c-9.67,22.86-23.51,43.38-41.13,61.01   c-17.63,17.63-38.15,31.46-61.01,41.13C251.73,386.6,226.59,391.67,200.68,391.67z M200.68,13.4C97.93,13.4,14.34,97,14.34,199.74   c0,102.75,83.59,186.34,186.34,186.34c102.75,0,186.34-83.59,186.34-186.34C387.02,97,303.43,13.4,200.68,13.4L200.68,13.4z"
+   id="path4" />
+	<g
+   id="g19">
+		<defs
+   id="defs7">
+			<rect
+   id="SVGID_1_"
+   x="4.67"
+   y="199.74"
+   width="390.29"
+   height="193.85" />
+		</defs>
+		<clipPath
+   id="SVGID_2_">
+			<use
+   xlink:href="#SVGID_1_"
+   style="overflow:visible;"
+   id="use9" />
+		</clipPath>
+		
+			<linearGradient
+   id="SVGID_3_"
+   gradientUnits="userSpaceOnUse"
+   x1="-555.4653"
+   y1="243.0462"
+   x2="-171.6067"
+   y2="243.0462"
+   gradientTransform="matrix(-1 0 0 -1 -156.2097 442.7903)">
+			<stop
+   offset="0.0744"
+   style="stop-color:#E0D6D7"
+   id="stop12" />
+			<stop
+   offset="1"
+   style="stop-color:#7E6B5A"
+   id="stop14" />
+		</linearGradient>
+		<path
+   class="st1"
+   d="M200.68,391.67c-25.91,0-51.04-5.07-74.71-15.08c-22.86-9.67-43.38-23.51-61.01-41.13    c-17.63-17.63-31.46-38.15-41.13-61.01c-10.01-23.66-15.08-48.8-15.08-74.71s5.08-51.04,15.08-74.71    c9.67-22.86,23.51-43.38,41.13-61.01c17.63-17.63,38.15-31.46,61.01-41.13c23.66-10.01,48.8-15.08,74.71-15.08    s51.04,5.07,74.71,15.08c22.86,9.67,43.38,23.51,61.01,41.13c17.63,17.63,31.46,38.15,41.13,61.01    c10.01,23.66,15.08,48.8,15.08,74.71s-5.08,51.04-15.08,74.71c-9.67,22.86-23.51,43.38-41.13,61.01    c-17.63,17.63-38.15,31.46-61.01,41.13C251.73,386.6,226.59,391.67,200.68,391.67z M200.68,13.4C97.93,13.4,14.34,97,14.34,199.74    c0,102.75,83.59,186.34,186.34,186.34c102.75,0,186.34-83.59,186.34-186.34C387.02,97,303.43,13.4,200.68,13.4L200.68,13.4z"
+   clip-path="url(#SVGID_2_)"
+   id="path17" />
+	</g>
+</g>
+</svg>
